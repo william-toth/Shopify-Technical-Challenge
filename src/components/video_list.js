@@ -7,7 +7,7 @@ const VideoList = (props) => {
   });
 
   return (
-    <ul>
+    <ul className="list">
       {videoItems}
     </ul>
   );

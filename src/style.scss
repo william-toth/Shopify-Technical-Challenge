@@ -9,9 +9,22 @@ body {
   margin: 50px;
 }
 
+.list {
+    list-style: none;
+}
+
+.details-thing1, .details-thing2 {
+    font-family: Futura;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.details-thing1 {
+    font-size: 1.5rem;
+}
 
 #search-bar {
-  margin-bottom: 20px;
+  margin-left: 20px;
 
   input {
     font-size: 1.5em;
@@ -19,8 +32,30 @@ body {
   }
 }
 
+.search {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.search-tag {
+    font-size: 2rem;
+    margin-right: 20px;
+    font-family: Futura;
+}
+
 #video-detail {
   width: 100%;
+}
+
+.other-video {
+    width: 25vw;
+}
+
+li {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    font-family: Futura;
 }
 
 #video-section {
@@ -33,8 +68,8 @@ body {
     width: 25vw;
     padding: 10px;
   }
+
   li:hover {
     background: darken( $backgroundcolor, 10% );
   }
-
 }
