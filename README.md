@@ -1,17 +1,28 @@
 <<<<<<< HEAD
-# Title
+# SA3 - React Intro
 
-*description*
+Building off our starter pack to build our first react app!!
 
-[deployed url](http://url-if-deployed-here)
+Note: the couple late commits were just to fix the .gitignore, which was not working. This lab was turned in on time. Thanks!!
+
+[deployed url](https://angry-shannon-67e8cc.netlify.app/)
 
 ## What Worked Well
 
+This was a lot of copy-and-paste, which wasn't too difficult to finish
+
 ## What Didn't
+
+While it was easy to follow instructions, it was harder to understand them. React is a confusing thing in the beginning, but I assume I'll gain a much better understanding from the labs
 
 ## Extra Credit
 
+Nothing too fancy with APIs, but some nice styling
+
 ## Screenshots
+![](screenshots/3.png)
+![](screenshots/2.png)
+![](screenshots/1.png)
 =======
 # William Toth - SA2 - Starter Pack
 
