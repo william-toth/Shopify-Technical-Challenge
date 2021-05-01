@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'http://www.omdbapi.com/?&apikey=8254682a';
+const API_URL = 'https://www.omdbapi.com/?&apikey=8254682a';
 
 const omdbSearch = (term) => {
   const params = {
